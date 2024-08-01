@@ -1,6 +1,6 @@
 # Games and Animations
 
-A central list of games and animations for Project Lighthouse. Feel free to add your own in a PR!
+A central list of games, animations and other apps for Project Lighthouse. Feel free to add your own in a PR!
 
 ## Animations
 
