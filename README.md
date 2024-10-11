@@ -18,3 +18,4 @@ A central list of games, animations and other apps for Project Lighthouse. Feel 
 ## Video
 
 - https://github.com/divi0001/lighthouse-video-playback (Video player)
+- https://github.com/fwcd/liplay (Video player)
