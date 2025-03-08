@@ -11,6 +11,7 @@ A central list of games, animations and other apps for Project Lighthouse. Feel 
 - https://github.com/jnccd/lighthouse-breakout (Breakout with particle effects)
 - https://github.com/fwcd/litris (Tetris)
 - https://github.com/fwcd/lisnake (Snake)
+- https://github.com/fwcd/lipong (Pong)
 - https://github.com/fwcd/lidoom (DOOM)
 - https://github.com/fwcd/lighthouse-2048 (2048)
 - https://github.com/fwcd/lighthouse-uni-project (Puzzle, Breakout, Snake, Space Invaders)
