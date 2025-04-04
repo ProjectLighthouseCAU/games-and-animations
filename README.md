@@ -8,6 +8,7 @@ A central list of games, animations and other apps for Project Lighthouse. Feel 
 
 ## Games
 
+- https://github.com/H1ghBre4k3r/pacman-bevy (Pac-Man)
 - https://github.com/jnccd/lighthouse-breakout (Breakout with particle effects)
 - https://github.com/fwcd/litris (Tetris)
 - https://github.com/fwcd/lisnake (Snake)
